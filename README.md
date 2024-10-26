@@ -26,8 +26,6 @@ Developed by: DHAREENE R K
 Registeration Number : 212222040035  
 */
 ```
-
-## OUTPUT
 ## In activity_main.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
